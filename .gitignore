@@ -3,4 +3,5 @@
 *.tif
 *.pdf
 *.html
-spider.png
+*\graf
+
